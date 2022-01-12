@@ -2,4 +2,4 @@
 clone 연습
 
 # clone 
-복제 해 와서, local repo로 만들기
+복제 해 와서, local repo로 만들기.
